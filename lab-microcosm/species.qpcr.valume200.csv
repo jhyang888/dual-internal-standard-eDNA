@@ -1,0 +1,169 @@
+﻿sample,copies,ct_value,type,target,species
+ctrl_1.1,2641000,15.65080738,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_1.2,2641000,15.04425907,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_1.3,2641000,15.50451851,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_2.1,264100,18.34537888,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_2.2,264100,18.36371422,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_2.3,264100,18.4407692,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_3.1,26410,22.53350449,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_3.2,26410,22.26799202,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_3.3,26410,22.93860054,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_4.1,2641,26.38527107,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_4.2,2641,25.98123741,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_4.3,2641,25.95608711,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_5.1,264.1,30.33545303,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_5.2,264.1,29.94411469,Standard curve,PD,Paramisgurnus dabryanus
+ctrl_5.3,264.1,29.75576401,Standard curve,PD,Paramisgurnus dabryanus
+L200-1.1,,25.77980804,L200-1,PD,Paramisgurnus dabryanus
+L200-2.1,,25.52147865,L200-2,PD,Paramisgurnus dabryanus
+L200-3.1,,25.49760818,L200-3,PD,Paramisgurnus dabryanus
+M200-1.1,,19.90559769,M200-1,PD,Paramisgurnus dabryanus
+M200-2.1,,19.69278336,M200-2,PD,Paramisgurnus dabryanus
+M200-3.1,,20.2824707,M200-3,PD,Paramisgurnus dabryanus
+H200-1.1,,20.32134819,H200-1,PD,Paramisgurnus dabryanus
+H200-2.1,,21.51387978,H200-2,PD,Paramisgurnus dabryanus
+H200-3.1,,20.8278923,H200-3,PD,Paramisgurnus dabryanus
+L200-1.2,,25.45922089,L200-1,PD,Paramisgurnus dabryanus
+L200-2.2,,25.37804413,L200-2,PD,Paramisgurnus dabryanus
+L200-3.2,,25.29463959,L200-3,PD,Paramisgurnus dabryanus
+M200-1.2,,19.8326664,M200-1,PD,Paramisgurnus dabryanus
+M200-2.2,,19.57131767,M200-2,PD,Paramisgurnus dabryanus
+M200-3.2,,20.59811592,M200-3,PD,Paramisgurnus dabryanus
+H200-1.2,,20.32294464,H200-1,PD,Paramisgurnus dabryanus
+H200-2.2,,20.87314987,H200-2,PD,Paramisgurnus dabryanus
+H200-3.2,,20.66174507,H200-3,PD,Paramisgurnus dabryanus
+L200-1.3,,25.5110321,L200-1,PD,Paramisgurnus dabryanus
+L200-2.3,,25.47277451,L200-2,PD,Paramisgurnus dabryanus
+L200-3.3,,25.39321327,L200-3,PD,Paramisgurnus dabryanus
+M200-1.3,,19.88075256,M200-1,PD,Paramisgurnus dabryanus
+M200-2.3,,19.6514225,M200-2,PD,Paramisgurnus dabryanus
+M200-3.3,,20.26582527,M200-3,PD,Paramisgurnus dabryanus
+H200-1.3,,20.71699715,H200-1,PD,Paramisgurnus dabryanus
+H200-2.3,,20.6578083,H200-2,PD,Paramisgurnus dabryanus
+H200-3.3,,20.79159164,H200-3,PD,Paramisgurnus dabryanus
+ctrl_1.1,1938000,15.64300823,Standard curve,MP,Mylopharyngodon piceus
+ctrl_1.2,1938000,15.13855934,Standard curve,MP,Mylopharyngodon piceus
+ctrl_1.3,1938000,15.11292171,Standard curve,MP,Mylopharyngodon piceus
+ctrl_2.1,193800,19.77746391,Standard curve,MP,Mylopharyngodon piceus
+ctrl_2.2,193800,19.70207787,Standard curve,MP,Mylopharyngodon piceus
+ctrl_2.3,193800,19.71532059,Standard curve,MP,Mylopharyngodon piceus
+ctrl_3.1,19380,22.64930344,Standard curve,MP,Mylopharyngodon piceus
+ctrl_3.2,19380,22.22003365,Standard curve,MP,Mylopharyngodon piceus
+ctrl_3.3,19380,22.93437004,Standard curve,MP,Mylopharyngodon piceus
+ctrl_4.1,1938,26.87079048,Standard curve,MP,Mylopharyngodon piceus
+ctrl_4.2,1938,25.57241249,Standard curve,MP,Mylopharyngodon piceus
+ctrl_4.3,1938,26.62518692,Standard curve,MP,Mylopharyngodon piceus
+ctrl_5.1,193.8,30.11849976,Standard curve,MP,Mylopharyngodon piceus
+ctrl_5.2,193.8,30.13898659,Standard curve,MP,Mylopharyngodon piceus
+ctrl_5.3,193.8,30.67299652,Standard curve,MP,Mylopharyngodon piceus
+L200-1.1,,24.77414131,L200-1,MP,Mylopharyngodon piceus
+L200-2.1,,24.9587307,L200-2,MP,Mylopharyngodon piceus
+L200-3.1,,24.47106171,L200-3,MP,Mylopharyngodon piceus
+M200-1.1,,24.33478737,M200-1,MP,Mylopharyngodon piceus
+M200-2.1,,23.80796242,M200-2,MP,Mylopharyngodon piceus
+M200-3.1,,24.20747185,M200-3,MP,Mylopharyngodon piceus
+H200-1.1,,22.73387337,H200-1,MP,Mylopharyngodon piceus
+H200-2.1,,22.4577446,H200-2,MP,Mylopharyngodon piceus
+H200-3.1,,22.25531197,H200-3,MP,Mylopharyngodon piceus
+L200-1.2,,24.37566948,L200-1,MP,Mylopharyngodon piceus
+L200-2.2,,24.59871674,L200-2,MP,Mylopharyngodon piceus
+L200-3.2,,23.90680885,L200-3,MP,Mylopharyngodon piceus
+M200-1.2,,24.61610603,M200-1,MP,Mylopharyngodon piceus
+M200-2.2,,24.49939346,M200-2,MP,Mylopharyngodon piceus
+M200-3.2,,24.33757973,M200-3,MP,Mylopharyngodon piceus
+H200-1.2,,22.31542206,H200-1,MP,Mylopharyngodon piceus
+H200-2.2,,22.27336502,H200-2,MP,Mylopharyngodon piceus
+H200-3.2,,22.39490318,H200-3,MP,Mylopharyngodon piceus
+L200-1.3,,23.8211689,L200-1,MP,Mylopharyngodon piceus
+L200-2.3,,24.23575783,L200-2,MP,Mylopharyngodon piceus
+L200-3.3,,23.64927483,L200-3,MP,Mylopharyngodon piceus
+M200-1.3,,24.24603462,M200-1,MP,Mylopharyngodon piceus
+M200-2.3,,24.1743927,M200-2,MP,Mylopharyngodon piceus
+M200-3.3,,24.45937538,M200-3,MP,Mylopharyngodon piceus
+H200-1.3,,21.99669266,H200-1,MP,Mylopharyngodon piceus
+H200-2.3,,22.39107895,H200-2,MP,Mylopharyngodon piceus
+H200-3.3,,22.3984623,H200-3,MP,Mylopharyngodon piceus
+ctrl_1.1,17540000,11.28959846,Standard curve,CA,Channa argus
+ctrl_1.2,17540000,11.27422047,Standard curve,CA,Channa argus
+ctrl_1.3,17540000,11.74973774,Standard curve,CA,Channa argus
+ctrl_2.1,1754000,14.48239803,Standard curve,CA,Channa argus
+ctrl_2.2,1754000,14.56695175,Standard curve,CA,Channa argus
+ctrl_2.3,1754000,14.73406029,Standard curve,CA,Channa argus
+ctrl_3.1,175400,18.48383904,Standard curve,CA,Channa argus
+ctrl_3.2,175400,18.46954918,Standard curve,CA,Channa argus
+ctrl_3.3,175400,18.86762428,Standard curve,CA,Channa argus
+ctrl_4.1,17540,22.25022888,Standard curve,CA,Channa argus
+ctrl_4.2,17540,22.42246628,Standard curve,CA,Channa argus
+ctrl_4.3,17540,22.64232254,Standard curve,CA,Channa argus
+ctrl_5.1,1754,25.56665802,Standard curve,CA,Channa argus
+ctrl_5.2,1754,26.49427414,Standard curve,CA,Channa argus
+ctrl_5.3,1754,26.74513054,Standard curve,CA,Channa argus
+L200-1.1,,25.7776413,L200-1,CA,Channa argus
+L200-2.1,,25.50721741,L200-2,CA,Channa argus
+L200-3.1,,24.81123924,L200-3,CA,Channa argus
+M200-1.1,,23.92241669,M200-1,CA,Channa argus
+M200-2.1,,22.60246277,M200-2,CA,Channa argus
+M200-3.1,,23.14477158,M200-3,CA,Channa argus
+H200-1.1,,23.62103462,H200-1,CA,Channa argus
+H200-2.1,,22.56080055,H200-2,CA,Channa argus
+H200-3.1,,21.89624786,H200-3,CA,Channa argus
+L200-1.2,,25.74420166,L200-1,CA,Channa argus
+L200-2.2,,24.91601753,L200-2,CA,Channa argus
+L200-3.2,,24.31904221,L200-3,CA,Channa argus
+M200-1.2,,24.30056953,M200-1,CA,Channa argus
+M200-2.2,,23.01670074,M200-2,CA,Channa argus
+M200-3.2,,23.37619019,M200-3,CA,Channa argus
+H200-1.2,,22.92278671,H200-1,CA,Channa argus
+H200-2.2,,22.16209412,H200-2,CA,Channa argus
+H200-3.2,,21.87298393,H200-3,CA,Channa argus
+L200-1.3,,25.22890282,L200-1,CA,Channa argus
+L200-2.3,,24.81347466,L200-2,CA,Channa argus
+L200-3.3,,23.75512123,L200-3,CA,Channa argus
+M200-1.3,,24.26226616,M200-1,CA,Channa argus
+M200-2.3,,22.71917534,M200-2,CA,Channa argus
+M200-3.3,,23.20801926,M200-3,CA,Channa argus
+H200-1.3,,22.38945007,H200-1,CA,Channa argus
+H200-2.3,,22.67678452,H200-2,CA,Channa argus
+H200-3.3,,21.76805305,H200-3,CA,Channa argus
+ctrl_1.1,1780000,12.89777374,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_1.2,1780000,13.29804897,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_1.3,1780000,12.93209362,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_2.1,178000,16.96258545,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_2.2,178000,16.6954155,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_2.3,178000,16.77069473,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_3.1,17800,20.28435516,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_3.2,17800,19.86317062,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_3.3,17800,20.06441689,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_4.1,1780,23.89143944,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_4.2,1780,23.85504532,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_4.3,1780,23.82706642,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_5.1,178,26.91879845,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_5.2,178,27.5382328,Standard curve,HN,Hypophthalmichthys nobilis
+ctrl_5.3,178,27.54810143,Standard curve,HN,Hypophthalmichthys nobilis
+L200-1.1,,23.79714394,L200-1,HN,Hypophthalmichthys nobilis
+L200-2.1,,24.22752953,L200-2,HN,Hypophthalmichthys nobilis
+L200-3.1,,23.52551079,L200-3,HN,Hypophthalmichthys nobilis
+M200-1.1,,23.91669273,M200-1,HN,Hypophthalmichthys nobilis
+M200-2.1,,23.77719116,M200-2,HN,Hypophthalmichthys nobilis
+M200-3.1,,24.4613018,M200-3,HN,Hypophthalmichthys nobilis
+H200-1.1,,21.86032104,H200-1,HN,Hypophthalmichthys nobilis
+H200-2.1,,22.45337868,H200-2,HN,Hypophthalmichthys nobilis
+H200-3.1,,22.82008553,H200-3,HN,Hypophthalmichthys nobilis
+L200-1.2,,23.67070961,L200-1,HN,Hypophthalmichthys nobilis
+L200-2.2,,24.61796761,L200-2,HN,Hypophthalmichthys nobilis
+L200-3.2,,23.53534126,L200-3,HN,Hypophthalmichthys nobilis
+M200-1.2,,24.24153709,M200-1,HN,Hypophthalmichthys nobilis
+M200-2.2,,23.62932587,M200-2,HN,Hypophthalmichthys nobilis
+M200-3.2,,24.34475136,M200-3,HN,Hypophthalmichthys nobilis
+H200-1.2,,22.5144043,H200-1,HN,Hypophthalmichthys nobilis
+H200-2.2,,22.91225815,H200-2,HN,Hypophthalmichthys nobilis
+H200-3.2,,22.81277847,H200-3,HN,Hypophthalmichthys nobilis
+L200-1.3,,23.67163467,L200-1,HN,Hypophthalmichthys nobilis
+L200-2.3,,24.27652168,L200-2,HN,Hypophthalmichthys nobilis
+L200-3.3,,23.46813202,L200-3,HN,Hypophthalmichthys nobilis
+M200-1.3,,24.1565876,M200-1,HN,Hypophthalmichthys nobilis
+M200-2.3,,23.76895905,M200-2,HN,Hypophthalmichthys nobilis
+M200-3.3,,24.41090012,M200-3,HN,Hypophthalmichthys nobilis
+H200-1.3,,22.61534309,H200-1,HN,Hypophthalmichthys nobilis
+H200-2.3,,22.9573288,H200-2,HN,Hypophthalmichthys nobilis
+H200-3.3,,22.81048393,H200-3,HN,Hypophthalmichthys nobilis
